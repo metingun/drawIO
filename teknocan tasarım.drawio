@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="5JS0DndD7Muh4FHETEYX">
+    <mxGraphModel dx="1814" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-11" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C4ZsvZSMj0h4cHIbBFbx-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-15" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="C4ZsvZSMj0h4cHIbBFbx-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-95" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="C4ZsvZSMj0h4cHIbBFbx-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" value="&lt;font&gt;&lt;b&gt;TEKNOCAN&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="155" x="677.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DOMAINS&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-86" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#fad7ac;strokeColor=#b46504;" target="C4ZsvZSMj0h4cHIbBFbx-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="195" />
+              <mxPoint x="80" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 1.) Themis YTS Developer&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="217.5" x="232.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-87" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;" target="C4ZsvZSMj0h4cHIbBFbx-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="235" />
+              <mxPoint x="100" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 2.) Themis YTS Analist&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="217.5" x="232.5" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-89" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" target="C4ZsvZSMj0h4cHIbBFbx-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="275" />
+              <mxPoint x="120" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 3.) Themis YTS Business&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="217.5" x="232.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-90" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;strokeWidth=3;" target="C4ZsvZSMj0h4cHIbBFbx-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="315" />
+              <mxPoint x="140" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 4.) Themis YTS Law Office&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="217.5" x="232.5" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-91" edge="1" parent="1" source="C4ZsvZSMj0h4cHIbBFbx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" target="C4ZsvZSMj0h4cHIbBFbx-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="355" />
+              <mxPoint x="160" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 5.) Themis YTS Manager&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="217.5" x="232.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;AGENTS&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="285" x="612.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 1.) Themis YTS Developer Asistant&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="262.5" x="625" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 2.) Themis YTS Analist Asistant&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="262.5" x="625" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 3.) Themis YTS Business&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Asistant&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="262.5" x="625" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 4.) Themis YTS Law Office&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Asistant&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="262.5" x="625" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 5.) Themis YTS Manager&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Asistant&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="262.5" x="625" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-93" parent="1" style="swimlane;fontSize=16;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=40;" value="CONFLUENCE PAGES" vertex="1">
+          <mxGeometry height="430" width="338.13" x="170.93" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-79" parent="C4ZsvZSMj0h4cHIbBFbx-93" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;PARENT 5 (DEVELOPER&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;)&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;Developerların Görmesi Gereken Dökümanlar Bu Page Altına Toplanacak&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="299.37" x="20.63" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-78" parent="C4ZsvZSMj0h4cHIbBFbx-93" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;PARENT 4 (ANALIST&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;)&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;Analistlerin Görmesi Gereken Dökümanlar Bu Page Altına Toplanacak&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="299.37" x="20.63" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-77" parent="C4ZsvZSMj0h4cHIbBFbx-93" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;PARENT 3 (BUSINESS&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;)&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;İş Birimlerinin Görmesi Gereken Dökümanlar Bu Page Altına Toplanacak&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="299.37" x="20.63" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-76" parent="C4ZsvZSMj0h4cHIbBFbx-93" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: light-dark(rgb(240, 50, 50), rgb(237, 237, 237));&quot;&gt;PARENT 2 (MANAGER&lt;span style=&quot;background-color: transparent;&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;Yöneticilerin Görmesi Gereken Dökümanlar Bu Page Altına Toplanacak&lt;/b&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="299.37" x="20.63" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-75" parent="C4ZsvZSMj0h4cHIbBFbx-93" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(240, 50, 50), rgb(237, 237, 237));&quot;&gt;PARENT 1 (LAW OFFICE&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;)&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Hukuk Bürolarının Görmesi Gereken Dökümanlar Bu Page Altına Toplanacak&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="68" width="298.12" x="21.88" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-99" parent="1" style="swimlane;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=4;" value="DEVELOPER AGENT DOMAIN KÜMESİ" vertex="1">
+          <mxGeometry height="230" width="405" x="560" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-100" parent="C4ZsvZSMj0h4cHIbBFbx-99" style="swimlane;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=4;" value="ANALIST AGENT DOMAIN KÜMESİ" vertex="1">
+          <mxGeometry height="170" width="371.25" x="18.13" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-98" parent="C4ZsvZSMj0h4cHIbBFbx-100" style="swimlane;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=4;" value="BUSINESS AGENT DOMAIN KÜMESİ" vertex="1">
+          <mxGeometry height="110" width="315" x="28.12" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-96" parent="C4ZsvZSMj0h4cHIbBFbx-98" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="LAW OFFICE AGENT DOMAIN KÜMESİ" vertex="1">
+          <mxGeometry height="20" width="280" x="17.5" y="40" as="geometry">
+            <mxRectangle height="30" width="260" x="680" y="470" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-97" parent="C4ZsvZSMj0h4cHIbBFbx-98" style="swimlane;fillColor=#fad9d5;strokeColor=#ae4132;" value="MANAGER AGENT DOMAIN KÜMESİ" vertex="1">
+          <mxGeometry height="20" width="280" x="17.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MCP LIST&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="285" x="1070" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-108" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;HER AGENT&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b&gt;OLUŞTURULURKEN&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b&gt;KENDİ DOMAININE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b&gt;EK OLARAK&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b&gt;ALT KÜMELERİ&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b&gt;OLAN&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b&gt;DOMAINLER DE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;ATANACAK&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="330" x="597.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-111" parent="1" style="swimlane;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1;fontSize=13;startSize=23;" value="    1.) Themis-Permission-Mcp" vertex="1">
+          <mxGeometry height="70" width="426.87" x="1023.13" y="180" as="geometry">
+            <mxRectangle height="30" width="210" x="1023.13" y="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-116" parent="C4ZsvZSMj0h4cHIbBFbx-111" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=0" value="BC_CORE yetki ve rollerinin listelenmesi, eklenmesi, çıkartılması gibi temel işlemleri yapabilir." vertex="1">
+          <mxGeometry height="30" width="338.13" x="8.740000000000002" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-112" parent="1" style="swimlane;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;fontSize=13;" value="    2.) Generate-DB-md-Mcp" vertex="1">
+          <mxGeometry height="110" width="429.68" x="1023.13" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C4ZsvZSMj0h4cHIbBFbx-117" parent="C4ZsvZSMj0h4cHIbBFbx-112" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=0" value="Veritabanında bulunan tüm DDL bilgilerini kullanarak LLM lerin projeleri daha iyi tanıyabilmesi için bir markdown dosyası generate eder. Bu dosyayı kapsamlı işlerde agentlara ekleyerek daha güvenli ve hızlı bir şekilde çıktılar elde edilmesine imkan verir." vertex="1">
+          <mxGeometry height="30" width="400.32" x="8.74" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
